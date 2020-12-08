@@ -1,0 +1,49 @@
+.a{
+	margin-right: 5%;
+	margin-left: 20%;
+	margin-top: 0%;
+	margin-bottom: 10%
+	font-size: 24px;
+	background-color: lightblue;
+	padding: 1em;
+	font-family:New Times Roman;
+	border: 2px solid black;
+}
+.b{
+	padding:auto; 
+	background-color:red;
+	font-family:Arial;
+	border: 3ex;
+
+}
+.c{
+	font-size: 25px;
+	background-color: #FFFF00;
+	font-weight: bold;
+	text-align: left;
+}
+.d{
+	color: blue;
+	font-size: 28px;
+	position: relative;
+	top: -4px;
+}
+.e{
+	margin-top:auto;
+	margin-bottom: auto;
+	margin-left: 30%;
+	margin-right: 30%;
+	background-color: lightgreen;
+	font-family: Arial Black
+
+}
+.f{
+	font-size: 1000%;
+	background-color: yellow;
+	margin-right: 10%;
+}
+.g{
+	color: pink;
+	position: relative;
+	bottom: -5px;
+}
